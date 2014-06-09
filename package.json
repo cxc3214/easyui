@@ -1,0 +1,29 @@
+{
+  "family": "jquery",
+  "name": "easyui",
+  "version": "1.0.0",
+  "description": "һ������jquery��ǰ��ui��.",
+  "homepage": "https://github.com/cxc3214/easyui",
+  "author": "cxc3214",
+  "maintainers": [
+    "cxc3214"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cxc3214/easyui.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "easyui.js",
+      "easyui.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
